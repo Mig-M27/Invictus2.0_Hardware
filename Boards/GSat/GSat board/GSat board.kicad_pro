@@ -569,7 +569,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "GSat board.step",
       "svg": "",
       "vrml": ""
     },
@@ -701,7 +701,7 @@
         "uuid": "e03aea2c-cf57-43d3-b83f-af3499b4ba8f"
       }
     ],
-    "used_designators": "R16-18,IC3,#PWR1,#PWR14,#PWR76,#PWR82,U7",
+    "used_designators": "J5,R16-18,IC3,#PWR1-2,#PWR7,#PWR14,#PWR20,#PWR29,#PWR37,#PWR76,#PWR81-82,U4,U7",
     "variants": []
   },
   "sheets": [
