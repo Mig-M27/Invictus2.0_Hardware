@@ -11,4 +11,5 @@
 	(lib (name "B4B-XH-A_LF__SN_") (type "KiCad") (uri "${KICAD_CUSTOM_DIR}/Symbols Lib/Contacts&Switches/B4B-XH-A_LF__SN_/B4B-XH-A_LF__SN_.kicad_sym") (options "") (descr ""))
 	(lib (name "B3B-XH-A_LF__SN_") (type "KiCad") (uri "${KICAD_CUSTOM_DIR}/Symbols Lib/Contacts&Switches/B3B-XH-A_LF__SN/B3B-XH-A_LF__SN_.kicad_sym") (options "") (descr ""))
 	(lib (name "SP3485CN-L_TR") (type "KiCad") (uri "C:/Users/rafae/Documents/Invictus2.0_Hardware/Symbols Lib/ICs/SP3485CN-L_TR/SP3485CN-L_TR.kicad_sym") (options "") (descr ""))
+	(lib (name "B2B-XH-A-M_LF__SN_") (type "KiCad") (uri "${KICAD_CUSTOM_DIR}/Symbols Lib/Contacts&Switches/B2B-XH-A-M_LF__SN_/B2B-XH-A-M_LF__SN_.kicad_sym") (options "") (descr ""))
 )
