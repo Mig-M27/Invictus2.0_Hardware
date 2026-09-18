@@ -578,198 +578,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "B3B-XH-A_LF__SN_:B3B-XH-A_LF__SN_"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 16.51 7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "B3B-XH-A_LF__SN_"
-				(at 16.51 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "B3BXHALFSN"
-				(at 16.51 -94.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1812131720_JST-Sales-America-B3B-XH-A-LF-SN_C144394.pdf"
-				(at 16.51 -194.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Description" "CONN HEADER VERT 3POS 2.5MM"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Height" "7"
-				(at 16.51 -394.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Part Number" "306-B3BXHALFSNP"
-				(at 16.51 -494.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B3B-XH-ALFSN?qs=cdbOS8ANM9BVkoboCCIEMQ%3D%3D"
-				(at 16.51 -594.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-				(at 16.51 -694.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Part_Number" "B3B-XH-A(LF)(SN)"
-				(at 16.51 -794.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(symbol "B3B-XH-A_LF__SN__1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 15.24 -7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "B4B-XH-A_LF__SN_:B4B-XH-A_LF__SN_"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5320,10 +5128,6 @@
 		(uuid "2b471189-a85b-4823-8a5f-e22ca4753653")
 	)
 	(no_connect
-		(at 217.17 119.38)
-		(uuid "41a63d3e-dff7-4e35-9106-fe8519b1962d")
-	)
-	(no_connect
 		(at 39.37 45.72)
 		(uuid "4e2abcbc-fa7f-445a-986b-2e5acf5a832d")
 	)
@@ -5352,10 +5156,6 @@
 		(uuid "9b3d53f3-ff13-4a7a-8019-1758157fce34")
 	)
 	(no_connect
-		(at 261.62 129.54)
-		(uuid "afb8a4f8-2294-4f63-9a5f-89bbc36f9153")
-	)
-	(no_connect
 		(at 350.52 45.72)
 		(uuid "c325d806-e9e2-48cb-8a67-f797f8422a37")
 	)
@@ -5366,10 +5166,6 @@
 	(no_connect
 		(at 367.03 138.43)
 		(uuid "d31470bf-61ae-4922-bd2d-053bab41f468")
-	)
-	(no_connect
-		(at 217.17 140.97)
-		(uuid "de0b95c6-f6b7-4d1d-9d53-a8fe50885707")
 	)
 	(no_connect
 		(at 85.09 76.2)
@@ -5385,6 +5181,26 @@
 	)
 	(wire
 		(pts
+			(xy 262.89 50.8) (xy 265.43 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00179947-5438-4ddf-820c-7fd9c3a67893")
+	)
+	(wire
+		(pts
+			(xy 259.08 53.34) (xy 260.35 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00c72fd1-4ab2-4043-99dd-a75227b5b18a")
+	)
+	(wire
+		(pts
 			(xy 350.52 38.1) (xy 360.68 38.1)
 		)
 		(stroke
@@ -5395,6 +5211,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 50.8) (xy 261.62 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04bc3d40-158b-4ec2-a7b0-c168c551583b")
+	)
+	(wire
+		(pts
 			(xy 88.9 147.32) (xy 96.52 147.32)
 		)
 		(stroke
@@ -5402,6 +5228,16 @@
 			(type default)
 		)
 		(uuid "050b7fc5-1756-47d8-8592-388e63cec0d4")
+	)
+	(wire
+		(pts
+			(xy 259.08 58.42) (xy 265.43 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05aa3511-9394-40fa-81ef-c0f16fa763d0")
 	)
 	(wire
 		(pts
@@ -5422,16 +5258,6 @@
 			(type default)
 		)
 		(uuid "085c4e0f-db5c-4da0-a632-446f328d31b7")
-	)
-	(wire
-		(pts
-			(xy 350.52 58.42) (xy 355.6 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08e0ff79-c5c4-4b79-b403-c08e8fd84d5a")
 	)
 	(wire
 		(pts
@@ -5465,16 +5291,6 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 50.8) (xy 355.6 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f26755e-bffc-45e8-b4a8-d311b7cf6514")
-	)
-	(wire
-		(pts
 			(xy 264.16 185.42) (xy 274.32 185.42)
 		)
 		(stroke
@@ -5482,6 +5298,16 @@
 			(type default)
 		)
 		(uuid "11dbc4eb-f15f-42d9-8c89-74234825a830")
+	)
+	(wire
+		(pts
+			(xy 201.93 140.97) (xy 201.93 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12350137-beb8-4895-bbfc-b3b96aea2df3")
 	)
 	(wire
 		(pts
@@ -5525,6 +5351,36 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 55.88) (xy 262.89 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16a9e0c7-71a0-4219-a32a-df9fac9204b7")
+	)
+	(wire
+		(pts
+			(xy 217.17 140.97) (xy 201.93 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "176bb36c-81c7-41c4-bea2-55595326cd56")
+	)
+	(wire
+		(pts
+			(xy 353.06 50.8) (xy 353.06 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17c6625c-2e8b-4279-8248-6f6e19443d11")
+	)
+	(wire
+		(pts
 			(xy 138.43 194.31) (xy 138.43 204.47)
 		)
 		(stroke
@@ -5542,6 +5398,16 @@
 			(type default)
 		)
 		(uuid "1afc8d1b-b264-4921-a031-dbb0ade9b4f8")
+	)
+	(wire
+		(pts
+			(xy 217.17 119.38) (xy 201.93 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c02a677-30f6-4707-9d7a-a20fc442e333")
 	)
 	(wire
 		(pts
@@ -5705,6 +5571,16 @@
 	)
 	(wire
 		(pts
+			(xy 262.89 55.88) (xy 262.89 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "310abe04-6b8f-465b-8533-e254976ad60e")
+	)
+	(wire
+		(pts
 			(xy 128.27 144.78) (xy 116.84 144.78)
 		)
 		(stroke
@@ -5732,6 +5608,16 @@
 			(type default)
 		)
 		(uuid "34313512-d274-4dc2-bea1-211230b9142c")
+	)
+	(wire
+		(pts
+			(xy 201.93 119.38) (xy 201.93 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "385e6391-844c-4aef-a72e-2610978bf888")
 	)
 	(wire
 		(pts
@@ -5845,6 +5731,16 @@
 	)
 	(wire
 		(pts
+			(xy 351.79 54.61) (xy 356.87 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45a7b39f-18b3-494c-94da-21e032457ab1")
+	)
+	(wire
+		(pts
 			(xy 302.26 48.26) (xy 314.96 48.26)
 		)
 		(stroke
@@ -5855,6 +5751,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 129.54) (xy 246.38 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "492a04d5-e1d2-4317-8207-f8bd1aa228d0")
+	)
+	(wire
+		(pts
 			(xy 48.26 205.74) (xy 30.48 205.74)
 		)
 		(stroke
@@ -5862,6 +5768,16 @@
 			(type default)
 		)
 		(uuid "4a3b08a4-005e-43bc-bbbc-39ab0ce57e10")
+	)
+	(wire
+		(pts
+			(xy 260.35 53.34) (xy 260.35 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aeeae8c-0a0a-479f-a3da-9745264ef920")
 	)
 	(wire
 		(pts
@@ -5922,16 +5838,6 @@
 			(type default)
 		)
 		(uuid "53364e3d-46a2-4661-a3f1-ebb76764e4ce")
-	)
-	(wire
-		(pts
-			(xy 246.38 132.08) (xy 261.62 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55e0127e-064b-414e-8141-17912e973169")
 	)
 	(wire
 		(pts
@@ -6055,6 +5961,16 @@
 	)
 	(wire
 		(pts
+			(xy 350.52 50.8) (xy 353.06 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "629f6fe5-7448-422c-8e2b-c9caffa0b292")
+	)
+	(wire
+		(pts
 			(xy 166.37 246.38) (xy 171.45 246.38)
 		)
 		(stroke
@@ -6072,6 +5988,16 @@
 			(type default)
 		)
 		(uuid "6342220a-65fd-4238-8428-dbf287c15480")
+	)
+	(wire
+		(pts
+			(xy 354.33 50.8) (xy 356.87 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6375836b-2382-4408-984f-6987872a8a68")
 	)
 	(wire
 		(pts
@@ -6165,6 +6091,16 @@
 	)
 	(wire
 		(pts
+			(xy 354.33 55.88) (xy 354.33 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7122afb5-f5fd-455e-ac77-bd088f174825")
+	)
+	(wire
+		(pts
 			(xy 302.26 234.95) (xy 295.91 234.95)
 		)
 		(stroke
@@ -6195,6 +6131,16 @@
 	)
 	(wire
 		(pts
+			(xy 356.87 54.61) (xy 356.87 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7aff9951-baa7-4fbe-97f3-2d6e6e6f2804")
+	)
+	(wire
+		(pts
 			(xy 274.32 45.72) (xy 279.4 45.72)
 		)
 		(stroke
@@ -6202,6 +6148,16 @@
 			(type default)
 		)
 		(uuid "7b186aee-5405-42a9-b699-2a3e116749d8")
+	)
+	(wire
+		(pts
+			(xy 350.52 58.42) (xy 356.87 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bbcaa10-21fd-408d-82a3-a7fe4b6386d4")
 	)
 	(wire
 		(pts
@@ -6215,13 +6171,13 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 55.88) (xy 355.6 55.88)
+			(xy 353.06 53.34) (xy 356.87 53.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7d0ec713-56df-48cb-8e2b-1debd41c7456")
+		(uuid "7efacc30-418a-491b-8fcd-0a87bc3e0567")
 	)
 	(wire
 		(pts
@@ -6365,16 +6321,6 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 53.34) (xy 355.6 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f21335a-3587-4aea-b11c-72448d37e86d")
-	)
-	(wire
-		(pts
 			(xy 33.02 208.28) (xy 48.26 208.28)
 		)
 		(stroke
@@ -6392,16 +6338,6 @@
 			(type default)
 		)
 		(uuid "9268678b-6fb8-4382-a36c-273607620325")
-	)
-	(wire
-		(pts
-			(xy 259.08 55.88) (xy 265.43 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92d72987-cf3b-444d-a4d4-025ff58931c2")
 	)
 	(wire
 		(pts
@@ -6435,16 +6371,6 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 53.34) (xy 265.43 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99dee419-b22e-4a07-b421-fbec9f6a4852")
-	)
-	(wire
-		(pts
 			(xy 205.74 204.47) (xy 205.74 207.01)
 		)
 		(stroke
@@ -6472,6 +6398,26 @@
 			(type default)
 		)
 		(uuid "a035d84f-9a35-4d24-a827-dd9d0e8e3956")
+	)
+	(wire
+		(pts
+			(xy 265.43 54.61) (xy 265.43 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a03f37ce-ffa0-4697-b4bc-9e4ae7fe1615")
+	)
+	(wire
+		(pts
+			(xy 260.35 54.61) (xy 265.43 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a045b1ca-6ad0-4042-a0e1-1c263f687f88")
 	)
 	(wire
 		(pts
@@ -6512,16 +6458,6 @@
 			(type default)
 		)
 		(uuid "a7f5e8a4-d199-4f33-afd2-4a6a9ff263fe")
-	)
-	(wire
-		(pts
-			(xy 201.93 121.92) (xy 217.17 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8c6f4c5-ac31-4dfd-9bc8-584b52d07d78")
 	)
 	(wire
 		(pts
@@ -6585,13 +6521,13 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 50.8) (xy 265.43 50.8)
+			(xy 350.52 53.34) (xy 351.79 53.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b2f4500f-10c1-4310-a971-6fcbb8fafbee")
+		(uuid "b16ff8a1-a664-4bd1-8c50-7c8a4d2bd067")
 	)
 	(wire
 		(pts
@@ -6665,6 +6601,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 50.8) (xy 261.62 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc47e63e-b3b5-4003-9b5a-ffcb4c881d30")
+	)
+	(wire
+		(pts
 			(xy 24.13 68.58) (xy 39.37 68.58)
 		)
 		(stroke
@@ -6725,23 +6671,23 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 58.42) (xy 265.43 58.42)
+			(xy 351.79 53.34) (xy 351.79 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ca64fe5e-66fb-4620-8698-227c63d193a8")
+		(uuid "cee4c009-538e-43b2-aa44-27c257befeeb")
 	)
 	(wire
 		(pts
-			(xy 201.93 143.51) (xy 217.17 143.51)
+			(xy 246.38 129.54) (xy 246.38 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ca6ddae6-6c6d-4aec-aebe-b6229e16657c")
+		(uuid "d0480db1-5cea-4cbe-b793-03a5d56a5c1b")
 	)
 	(wire
 		(pts
@@ -6772,6 +6718,16 @@
 			(type default)
 		)
 		(uuid "d6b2696d-afd8-4014-8dfe-480f68d45ec1")
+	)
+	(wire
+		(pts
+			(xy 261.62 53.34) (xy 265.43 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6ffd8ee-53c3-44d8-ab8a-5acb41ce815f")
 	)
 	(wire
 		(pts
@@ -6872,6 +6828,16 @@
 			(type default)
 		)
 		(uuid "e2e28e20-a154-4f7a-a897-1b2ad559624a")
+	)
+	(wire
+		(pts
+			(xy 350.52 55.88) (xy 354.33 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5b0768d-53b9-41ac-a4d0-dd761d6819df")
 	)
 	(wire
 		(pts
@@ -8031,7 +7997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B2BXHAMLFSN"
+		(property "Footprint" "B2B-XH-A-M_LF__SN_:B2BXHAMLFSN"
 			(at 154.94 299.39 0)
 			(hide yes)
 			(show_name no)
@@ -8724,7 +8690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 244.602 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -8887,7 +8853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B2BXHAMLFSN"
+		(property "Footprint" "B2B-XH-A-M_LF__SN_:B2BXHAMLFSN"
 			(at 154.94 286.69 0)
 			(hide yes)
 			(show_name no)
@@ -9031,7 +8997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 61.9252 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -9237,7 +9203,7 @@
 	)
 	(symbol
 		(lib_id "B4B-XH-A_LF__SN_:B4B-XH-A_LF__SN_")
-		(at 355.6 50.8 0)
+		(at 356.87 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9248,7 +9214,7 @@
 		(fields_autoplaced yes)
 		(uuid "2c50bfaf-191f-4900-8356-0f9850d36378")
 		(property "Reference" "J14"
-			(at 372.11 53.3399 0)
+			(at 373.38 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9259,7 +9225,7 @@
 			)
 		)
 		(property "Value" "B4B-XH-A_LF__SN_"
-			(at 372.11 55.8799 0)
+			(at 373.38 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9270,7 +9236,7 @@
 			)
 		)
 		(property "Footprint" "B4B-XH-A_LF__SN_:B4BXHALFSN"
-			(at 372.11 145.72 0)
+			(at 373.38 145.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9282,7 +9248,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"
-			(at 372.11 245.72 0)
+			(at 373.38 245.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9294,7 +9260,7 @@
 			)
 		)
 		(property "Description" "CONN HEADER VERT 4POS 2.5MM"
-			(at 355.6 50.8 0)
+			(at 356.87 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9305,7 +9271,7 @@
 			)
 		)
 		(property "Height" "7"
-			(at 372.11 445.72 0)
+			(at 373.38 445.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9317,7 +9283,7 @@
 			)
 		)
 		(property "Mouser Part Number" "306-B4BXHALFSN"
-			(at 372.11 545.72 0)
+			(at 373.38 545.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9329,7 +9295,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B4B-XH-ALFSN?qs=cdbOS8ANM9CfC08d%252BywhFw%3D%3D"
-			(at 372.11 645.72 0)
+			(at 373.38 645.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9341,7 +9307,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-			(at 372.11 745.72 0)
+			(at 373.38 745.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9353,7 +9319,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "B4B-XH-A(LF)(SN)"
-			(at 372.11 845.72 0)
+			(at 373.38 845.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9855,6 +9821,150 @@
 		)
 	)
 	(symbol
+		(lib_id "B2B-XH-A-M_LF__SN_:B2B-XH-A-M_LF__SN_")
+		(at 261.62 127 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a93a4fb-830b-4cbf-95c3-bb251a3b29a3")
+		(property "Reference" "J12"
+			(at 278.13 126.9999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "B2B-XH-A-M_LF__SN_"
+			(at 278.13 129.5399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "B2B-XH-A-M_LF__SN_:B2BXHAMLFSN"
+			(at 278.13 221.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" ""
+			(at 278.13 321.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "CONN HEADER VERT 2POS 2.5MM"
+			(at 261.62 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "7"
+			(at 278.13 521.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "306-B2B-XH-A-MLFS"
+			(at 278.13 621.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B2B-XH-A-MLFSN?qs=cdbOS8ANM9D%252BMEgQk6oo9g%3D%3D"
+			(at 278.13 721.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
+			(at 278.13 821.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "B2B-XH-A-M(LF)(SN)"
+			(at 278.13 921.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "2"
+			(uuid "9e95560d-5ba4-4c29-91c2-8bb060907498")
+		)
+		(pin "1"
+			(uuid "01620fcb-5899-4837-93ee-04b0a04b9019")
+		)
+		(instances
+			(project "GSat board"
+				(path "/e03aea2c-cf57-43d3-b83f-af3499b4ba8f"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 205.74 190.5 0)
 		(unit 1)
@@ -9966,7 +10076,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 107.6452 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -10009,152 +10119,6 @@
 			(project "GSat board"
 				(path "/e03aea2c-cf57-43d3-b83f-af3499b4ba8f"
 					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "B3B-XH-A_LF__SN_:B3B-XH-A_LF__SN_")
-		(at 217.17 138.43 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3f6d112d-6bc1-4903-a773-55038c3da782")
-		(property "Reference" "J3"
-			(at 214.63 146.05 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "B3B-XH-A_LF__SN_"
-			(at 214.63 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "B3B-XH-A_LF__SN:B3BXHALFSN"
-			(at 233.68 233.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1812131720_JST-Sales-America-B3B-XH-A-LF-SN_C144394.pdf"
-			(at 233.68 333.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "CONN HEADER VERT 3POS 2.5MM"
-			(at 217.17 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "7"
-			(at 233.68 533.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "306-B3BXHALFSNP"
-			(at 233.68 633.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B3B-XH-ALFSN?qs=cdbOS8ANM9BVkoboCCIEMQ%3D%3D"
-			(at 233.68 733.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-			(at 233.68 833.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "B3B-XH-A(LF)(SN)"
-			(at 233.68 933.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "1"
-			(uuid "d4fb64c1-3ba1-4311-ac0b-252e63829594")
-		)
-		(pin "3"
-			(uuid "dc6f5027-556b-406b-94b0-88cd5f87a673")
-		)
-		(pin "2"
-			(uuid "665ec2b3-c7a5-469e-906f-d52a03e77571")
-		)
-		(instances
-			(project "GSat board"
-				(path "/e03aea2c-cf57-43d3-b83f-af3499b4ba8f"
-					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -11085,7 +11049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 280.3652 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11645,7 +11609,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 200.152 147.32 90)
 			(hide yes)
 			(show_name no)
@@ -11727,7 +11691,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 371.8052 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -12029,7 +11993,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B2BXHAMLFSN"
+		(property "Footprint" "B2B-XH-A-M_LF__SN_:B2BXHAMLFSN"
 			(at 105.41 287.96 0)
 			(hide yes)
 			(show_name no)
@@ -12645,7 +12609,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 200.152 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -13187,7 +13151,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 383.032 144.78 90)
 			(hide yes)
 			(show_name no)
@@ -13864,298 +13828,6 @@
 		)
 	)
 	(symbol
-		(lib_id "B3B-XH-A_LF__SN_:B3B-XH-A_LF__SN_")
-		(at 217.17 116.84 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "adc34992-24c9-4e96-92de-11dc0bdbd75c")
-		(property "Reference" "J1"
-			(at 214.63 124.46 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "B3B-XH-A_LF__SN_"
-			(at 214.63 127 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "B3B-XH-A_LF__SN:B3BXHALFSN"
-			(at 233.68 211.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1812131720_JST-Sales-America-B3B-XH-A-LF-SN_C144394.pdf"
-			(at 233.68 311.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "CONN HEADER VERT 3POS 2.5MM"
-			(at 217.17 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "7"
-			(at 233.68 511.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "306-B3BXHALFSNP"
-			(at 233.68 611.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B3B-XH-ALFSN?qs=cdbOS8ANM9BVkoboCCIEMQ%3D%3D"
-			(at 233.68 711.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-			(at 233.68 811.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "B3B-XH-A(LF)(SN)"
-			(at 233.68 911.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "1"
-			(uuid "5cfe91ba-2086-4624-98e8-cdfcc10de1ac")
-		)
-		(pin "3"
-			(uuid "6f2a11cd-70ce-4748-9aa2-9989a3aa0735")
-		)
-		(pin "2"
-			(uuid "83c3fa7c-3d15-4a2c-b5e7-3cf93c9d93a7")
-		)
-		(instances
-			(project "GSat board"
-				(path "/e03aea2c-cf57-43d3-b83f-af3499b4ba8f"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "B3B-XH-A_LF__SN_:B3B-XH-A_LF__SN_")
-		(at 261.62 127 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "afc49cde-0180-40a4-a582-cdbaf2672bc2")
-		(property "Reference" "J4"
-			(at 259.08 134.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "B3B-XH-A_LF__SN_"
-			(at 259.08 137.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "B3B-XH-A_LF__SN:B3BXHALFSN"
-			(at 278.13 221.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1812131720_JST-Sales-America-B3B-XH-A-LF-SN_C144394.pdf"
-			(at 278.13 321.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "CONN HEADER VERT 3POS 2.5MM"
-			(at 261.62 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "7"
-			(at 278.13 521.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "306-B3BXHALFSNP"
-			(at 278.13 621.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B3B-XH-ALFSN?qs=cdbOS8ANM9BVkoboCCIEMQ%3D%3D"
-			(at 278.13 721.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
-			(at 278.13 821.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "B3B-XH-A(LF)(SN)"
-			(at 278.13 921.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "1"
-			(uuid "53f6793e-75da-4167-989c-335c7d54719f")
-		)
-		(pin "3"
-			(uuid "fe6e3ef9-b8f0-4eaa-b2fc-30a6bef4d53c")
-		)
-		(pin "2"
-			(uuid "2451ae2f-0eec-4805-be98-223a890130e2")
-		)
-		(instances
-			(project "GSat board"
-				(path "/e03aea2c-cf57-43d3-b83f-af3499b4ba8f"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 30.48 207.01 0)
 		(unit 1)
@@ -14227,6 +13899,150 @@
 			(project "GSat board"
 				(path "/e03aea2c-cf57-43d3-b83f-af3499b4ba8f"
 					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "B2B-XH-A-M_LF__SN_:B2B-XH-A-M_LF__SN_")
+		(at 217.17 138.43 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b6087c58-a5b4-4d4c-be78-3948830b0276")
+		(property "Reference" "J11"
+			(at 233.68 138.4299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "B2B-XH-A-M_LF__SN_"
+			(at 233.68 140.9699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "B2B-XH-A-M_LF__SN_:B2BXHAMLFSN"
+			(at 233.68 233.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 333.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "CONN HEADER VERT 2POS 2.5MM"
+			(at 217.17 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "7"
+			(at 233.68 533.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "306-B2B-XH-A-MLFS"
+			(at 233.68 633.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B2B-XH-A-MLFSN?qs=cdbOS8ANM9D%252BMEgQk6oo9g%3D%3D"
+			(at 233.68 733.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
+			(at 233.68 833.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "B2B-XH-A-M(LF)(SN)"
+			(at 233.68 933.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "2"
+			(uuid "d65faadb-efd8-4931-8e3d-2d323f0d5e68")
+		)
+		(pin "1"
+			(uuid "7a1c24f9-253e-4405-b177-e4fa334f1d32")
+		)
+		(instances
+			(project "GSat board"
+				(path "/e03aea2c-cf57-43d3-b83f-af3499b4ba8f"
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -14423,7 +14239,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B2BXHAMLFSN"
+		(property "Footprint" "B2B-XH-A-M_LF__SN_:B2BXHAMLFSN"
 			(at 105.41 300.66 0)
 			(hide yes)
 			(show_name no)
@@ -14726,7 +14542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 302.768 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -15319,6 +15135,150 @@
 		)
 	)
 	(symbol
+		(lib_id "B2B-XH-A-M_LF__SN_:B2B-XH-A-M_LF__SN_")
+		(at 217.17 116.84 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd8b4a8e-8470-4776-a4e4-0eda1da44587")
+		(property "Reference" "J9"
+			(at 233.68 116.8399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "B2B-XH-A-M_LF__SN_"
+			(at 233.68 119.3799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "B2B-XH-A-M_LF__SN_:B2BXHAMLFSN"
+			(at 233.68 211.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 311.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "CONN HEADER VERT 2POS 2.5MM"
+			(at 217.17 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "7"
+			(at 233.68 511.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "306-B2B-XH-A-MLFS"
+			(at 233.68 611.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B2B-XH-A-MLFSN?qs=cdbOS8ANM9D%252BMEgQk6oo9g%3D%3D"
+			(at 233.68 711.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
+			(at 233.68 811.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "B2B-XH-A-M(LF)(SN)"
+			(at 233.68 911.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "2"
+			(uuid "9c800e47-34bf-4b9a-8637-ffd4f2477ad4")
+		)
+		(pin "1"
+			(uuid "f02587cb-024a-4656-b8cc-87d9622ef326")
+		)
+		(instances
+			(project "GSat board"
+				(path "/e03aea2c-cf57-43d3-b83f-af3499b4ba8f"
+					(reference "J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 85.09 257.81 0)
 		(unit 1)
@@ -15352,7 +15312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 85.09 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -15592,7 +15552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 211.328 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -15757,7 +15717,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 104.902 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -16190,7 +16150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 16.002 85.09 90)
 			(hide yes)
 			(show_name no)
